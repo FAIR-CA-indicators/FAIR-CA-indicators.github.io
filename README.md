@@ -20,7 +20,7 @@
 ## Getting involved 
 * Join our [Mailing List on Google Groups](https://groups.google.com/g/fair-ca-indicators)
 * Sign up to this github project, try out the indicators, add examples
-* Join our regular community calls (last Friday each month, 
+* Join our regular community calls (first Friday each month, pls contact [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss) to receive the Zoom link).
 * Become an <paid> intern at the Medical Informatics Laboratory at University Medicine Greifswald or at the University of Luxembourg between October 2022 and March 2023. 
 
 ## Funding
