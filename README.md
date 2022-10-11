@@ -13,8 +13,8 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 3. Implement a FAIR evaluation tool
 
 ## Involved communities
-* [BioModels](https://www.ebi.ac.uk/biomodels/)
 * COmputational MOdeling in BIology NEtwork ([COMBINE](https://combine-org.github.io/))
+* [BioModels](https://www.ebi.ac.uk/biomodels/)
 * Physiome Model Repository ([PMR2](https://models.physiomeproject.org/))
 
 ## Related meetings
