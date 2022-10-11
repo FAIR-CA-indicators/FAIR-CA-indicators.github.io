@@ -1,5 +1,5 @@
 # Welcome to the FAIR COMBINE Archive Indicators project
-* project coordination: Irina Balaur and [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
+* project coordination: [Irina Balaur](https://sites.google.com/view/irinabalaur/home) and [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
 
 Many computational models have been developed and published for the past 20 years to investigate biochemical to multiorgan mechanisms in humans as well as animal models. Disease maps have been provided to integrate the various complex levels of information leading to insights on disease progression; the latest example is the [COVID-19 Disease Map](https://covid.pages.uni.lu/). These resources are becoming increasingly interesting for clinician 
 scientists, as supporting tools for diagnosis, therapy, and scientific investigations using patient data. However, the uptake of computational models in the clinic is still hindered for several reasons (including limited reusable annotations in the models, lack of standardisation of the 
@@ -13,7 +13,7 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 3. Implement a FAIR evaluation tool
 
 ## Involved communities
-* BioModels
+* [BioModels](https://www.ebi.ac.uk/biomodels/)
 * COmputational MOdeling in BIology NEtwork ([COMBINE](https://combine-org.github.io/))
 * Physiome Model Repository ([PMR2](https://models.physiomeproject.org/))
 
@@ -23,6 +23,7 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 * Workshop at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) supported by EOSC.
 
 ## Outreach and open material 
+* Presentation at EOSC Symposium in Prague, November 14-17, 2022
 * Presentation at ICSB 2022 in Berlin, October 11, 2022
 * Poster at COMBINE 2022 in Berlin, October 6-8, 2022
 
