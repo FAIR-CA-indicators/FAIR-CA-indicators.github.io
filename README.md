@@ -29,7 +29,7 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 
 ## Getting involved 
 * Join our [Mailing List on Google Groups](https://groups.google.com/g/fair-ca-indicators)
-* Sign up to this github project, try out the indicators, add examples
+* Sign up to the related [github projects](https://github.com/FAIR-CA-indicators) of your interest, try out the indicators, add examples
 * Join our regular community calls (first Friday each month, 11-12am. Pls contact [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss) to receive the Zoom link).
 * Become an <paid> intern at the Medical Informatics Laboratory at University Medicine Greifswald or at the University of Luxembourg between October 2022 and March 2023. 
 
