@@ -35,7 +35,6 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 
 ## Funding
 <table>
-    <tr>
     <td style="width:120px; text-align:center; font-size:90%; padding-top:0.4em;"><img src="../pics/funding/eu_flag.jpg" width="110"/></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;">This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017536.</td>
-    </tr>
+</table>
