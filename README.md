@@ -20,10 +20,10 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 ## Related meetings
 * Workshop at [COMBINE 2021](https://combine-org.github.io/author/combine-2021/)
 * Workshop at [HARMONY 2022](https://combine-org.github.io/author/harmony-2022/)
-* Workshop at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) supported by EOSC.
+* Workshop at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) supported by EOSC Future.
 
 ## Outreach and open material 
-* Presentation at EOSC Symposium in Prague, November 14-17, 2022
+* Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, November 14-17, 2022
 * Presentation at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022
 * Poster at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) in Berlin, October 6-8, 2022
 
