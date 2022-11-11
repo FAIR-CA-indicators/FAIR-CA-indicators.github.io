@@ -24,8 +24,8 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 
 ## Outreach and open material 
 * Presentation at EOSC Symposium in Prague, November 14-17, 2022
-* Presentation at ICSB 2022 in Berlin, October 11, 2022
-* Poster at COMBINE 2022 in Berlin, October 6-8, 2022
+* Presentation at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022
+* Poster at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) in Berlin, October 6-8, 2022
 
 ## Getting involved 
 * Join our [Mailing List on Google Groups](https://groups.google.com/g/fair-ca-indicators)
