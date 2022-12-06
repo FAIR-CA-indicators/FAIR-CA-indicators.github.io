@@ -23,7 +23,7 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 * Workshop at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) supported by EOSC Future.
 
 ## Outreach and open material 
-* Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, November 14-17, 2022 - [DOI: 10.5281/zenodo.7405912](10.5281/zenodo.7405912).
+* Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, November 14-17, 2022 - [DOI: 10.5281/zenodo.7405912](http://doi.org/10.5281/zenodo.7405912).
 * Presentation at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022
 * Poster at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) in Berlin, October 6-8, 2022
 
