@@ -1,13 +1,12 @@
 # Welcome to the FAIR COMBINE Archive Indicators project
-* project coordination: [Irina Balaur](https://sites.google.com/view/irinabalaur/home) and [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
+
+## Project coordination: [Irina Balaur](https://sites.google.com/view/irinabalaur/home) and [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
 
 Many computational models have been developed and published for the past 20 years to investigate biochemical to multiorgan mechanisms in humans as well as animal models. Disease maps have been provided to integrate the various complex levels of information leading to insights on disease progression; the latest example is the [COVID-19 Disease Map](https://covid.pages.uni.lu/). These resources are becoming increasingly interesting for clinician 
 scientists, as supporting tools for diagnosis, therapy, and scientific investigations using patient data. However, the uptake of computational models in the clinic is still hindered for several reasons (including limited reusable annotations in the models, lack of standardisation of the 
 properties/ settings indicating how the model can be used for computational simulations, insufficiently clear specifications on the model kinetics, reduced reproducibility of the model simulation results, see for example [https://doi.org/10.15252/msb.20209982](https://doi.org/10.15252/msb.20209982), [http://ceur-ws.org/Vol-1692/paperC.pdf](http://ceur-ws.org/Vol-1692/paperC.pdf). 
 
 We believe that a major roadblocker is the lack of trust in a model’s quality. More transparency and objective measures of model quality will increase trust and thus improve cross-disciplinary collaboration in clinical and health research. With this project, a first step towards trust building and cross-discipline communication is taken. We believe that FAIR can be a connecting principle as it is recognised and appreciated in both clinical research and systems biomedicine. 
-
-<div style="color:red"> New! </div>
 
 ## Development of FAIR evaluation guidelines : 
 The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf). We truly appreciate your feedback and suggestions on it. Please use the [Issue](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues) that we created per each indicator to add your comments and edits. Thank you. 
