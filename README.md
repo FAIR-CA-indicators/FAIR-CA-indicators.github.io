@@ -8,7 +8,7 @@ properties/ settings indicating how the model can be used for computational simu
 
 We believe that a major roadblocker is the lack of trust in a model’s quality. More transparency and objective measures of model quality will increase trust and thus improve cross-disciplinary collaboration in clinical and health research. With this project, a first step towards trust building and cross-discipline communication is taken. We believe that FAIR can be a connecting principle as it is recognised and appreciated in both clinical research and systems biomedicine. 
 
-## Development of FAIR evaluation guidelines : 
+## New! Development of FAIR evaluation guidelines : 
 The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf). We truly appreciate your feedback and suggestions on it. Please use the [Issue](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues) that we created per each indicator to add your comments and edits. Thank you. 
 
 ## Project goals (Oct 2022-Mar2023)
