@@ -9,7 +9,8 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 
 <span style="color:red"> New! </span>
 
-## Development of FAIR evaluation guidelines : first draft of FAIR indicators adapted to the COMBINE domain
+## Development of FAIR evaluation guidelines : 
+The first draft of FAIR indicators adapted to the COMBINE domain is available [here](FAIR_indicators_for_COMBINE/FAIR model indicators_main_13012023.pdf).
 
 ## Project goals (Oct 2022-Mar2023)
 1. Achieve Community-consensus on FAIR indicators
