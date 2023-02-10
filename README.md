@@ -11,14 +11,13 @@ We believe that a major roadblocker is the lack of trust in a model’s quality.
 ## New! Development of FAIR evaluation guidelines : 
 The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf). We truly appreciate your feedback and suggestions on it. Please use the [Issue](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues) that we created per each indicator to add your comments and edits. Thank you. 
 
-As we finalised the version 1 of FAIR indicators for COMBINE archives (https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues), we will organise a serie of hack-together on Zoom to do a complete (manual) example evaluation for the COMBINE models, as follows:
+As we finalised the version 1 of FAIR indicators for COMBINE archives (https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues), we will organise a serie of hack-together on Zoom to do a complete (manual) example evaluation for the COMBINE models, as follows. The time zone is CET. For the zoom url, please contact Prof. D. Waltemath at dagmar.waltemath@uni-greifswald.de.
 
-The time zone is CET. For the zoom url, please contact Prof. D. Waltemath at dagmar.waltemath@uni-greifswald.de.
-Meeting 1: Feb 17 (Fr) 10am-12pm: COVID-19 curated model;
-Meeting 2: Feb 27 (Mo) 12pm-2pm:  Biomodels curated;
-Meeting 3: Feb 28 (Tue) 8pm-10pm: Physiome Model Repository (PMR) curated;
-Meeting 4: Mar 2nd (Thu) 11am-1pm: Biomodels non-curated;
-Meeting 5: Mar 3rd (Fr) 8.30am-10.30am: PMR non-curated.
+* Meeting 1: Feb 17 (Fr) 10am-12pm: COVID-19 curated model;
+* Meeting 2: Feb 27 (Mo) 12pm-2pm:  Biomodels curated;
+* Meeting 3: Feb 28 (Tue) 8pm-10pm: Physiome Model Repository (PMR) curated;
+* Meeting 4: Mar 2nd (Thu) 11am-1pm: Biomodels non-curated;
+* Meeting 5: Mar 3rd (Fr) 8.30am-10.30am: PMR non-curated.
 
 ## Project goals (Oct 2022-Mar2023)
 1. Achieve Community-consensus on FAIR indicators
