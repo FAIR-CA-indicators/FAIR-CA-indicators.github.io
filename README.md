@@ -41,6 +41,8 @@ As we finalised the version 1 of FAIR indicators for COMBINE archives (https://g
 
 * Poster at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022 - [DOI:  10.5281/zenodo.7716885]( http://doi.org/10.5281/zenodo.7716885).
 
+* Our [webpage](https://eoscfuture-grants.eu/node/274) on the EOSCFuture website.
+
 ## Getting involved 
 * Join our [Mailing List on Google Groups](https://groups.google.com/g/fair-ca-indicators)
 * Sign up to the related [github projects](https://github.com/FAIR-CA-indicators) of your interest, try out the indicators, add examples
