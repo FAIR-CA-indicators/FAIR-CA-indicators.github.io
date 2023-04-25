@@ -13,7 +13,7 @@ We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/)
 
 |9am PDT (6pm CEST) | Update from the EOSC FAIR COMBINE Archive Indicators	| Irina Balaur and Dagmar Waltemath |
 |9:20am PDT (6:20pm CEST) |	Status of FAIR evaluation tool | Francois |
-|9:45am PDT	(6:20pm CEST) | Task distribution for hands-on session | Irina Balaur and Dagmar Waltemath |
+|9:45am PDT	(6:45pm CEST) | Task distribution for hands-on session | Irina Balaur and Dagmar Waltemath |
 |10am PDT (7pm CEST) | Start hacking | all :) |
 |11:40am PDT (8:40pm CEST) | Wrap up | all |
 
