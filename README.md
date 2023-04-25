@@ -8,10 +8,16 @@ properties/ settings indicating how the model can be used for computational simu
 
 We believe that a major roadblocker is the lack of trust in a model’s quality. More transparency and objective measures of model quality will increase trust and thus improve cross-disciplinary collaboration in clinical and health research. With this project, a first step towards trust building and cross-discipline communication is taken. We believe that FAIR can be a connecting principle as it is recognised and appreciated in both clinical research and systems biomedicine. 
 
-## New! Participation at HARMONY 2023
+## New! Workshop at HARMONY 2023
 We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/) on April 26. Please join us for some hands-on sessions, here is the schedule in local time, remote attendance is possible: 
 
+|9am PDT (6pm CEST) | Update from the EOSC FAIR COMBINE Archive Indicators	| Irina Balaur and Dagmar Waltemath |
+|9:20am PDT (6:20pm CEST) |	Status of FAIR evaluation tool | Francois |
+|9:45am PDT	(6:20pm CEST) | Task distribution for hands-on session | Irina Balaur and Dagmar Waltemath |
+|10am PDT (7pm CEST) | Start hacking | all :) |
+|11:40am PDT (8:40pm CEST) | Wrap up | all |
 
+We will offer a meeting room on site as well as breakout rooms on Zoom. 
 
 
 ## Development of FAIR evaluation guidelines : 
