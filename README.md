@@ -17,11 +17,11 @@ We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/)
 |10am PDT (7pm CEST) | Start hacking | all :) |
 |11:40am PDT (8:40pm CEST) | Wrap up | all |
 
-We will offer a meeting room on site as well as breakout rooms on [Zoom](). Further details are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
+We will offer a meeting room on site as well as breakout rooms on Zoom. Further details and the Zoom link are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
 
 
 ## Development of FAIR evaluation guidelines : 
-The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue]([https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues) that we created per each indicator to add your comments and edits. Thank you. 
+The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue]([https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues)) that we created per each indicator to add your comments and edits. Thank you. 
 
 ## Project goals (Oct 2022-Mar2023)
 1. Achieve Community-consensus on FAIR indicators
