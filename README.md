@@ -8,7 +8,11 @@ properties/ settings indicating how the model can be used for computational simu
 
 We believe that a major roadblocker is the lack of trust in a model’s quality. More transparency and objective measures of model quality will increase trust and thus improve cross-disciplinary collaboration in clinical and health research. With this project, a first step towards trust building and cross-discipline communication is taken. We believe that FAIR can be a connecting principle as it is recognised and appreciated in both clinical research and systems biomedicine. 
 
-## New! 
+## New! Participation at HARMONY 2023
+We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/) on April 26. Please join us for some hands-on sessions, here is the schedule in local time, remote attendance is possible: 
+
+
+
 
 ## Development of FAIR evaluation guidelines : 
 The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues) that we created per each indicator to add your comments and edits. Thank you. 
@@ -27,6 +31,7 @@ The draft of FAIR indicators adapted to the COMBINE domain is available [here](h
 * Workshop at [COMBINE 2021](https://combine-org.github.io/author/combine-2021/)
 * Workshop at [HARMONY 2022](https://combine-org.github.io/author/harmony-2022/)
 * Workshop at [COMBINE 2022](https://combine-org.github.io/author/combine-2022/) supported by EOSC Future (no. 101017536).
+* Workshop at [HARMONY 2023](https://co.mbine.org/events/) supported by EOSC Future (no. 101017536).
 
 ## Outreach and open material 
 * Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, November 14-17, 2022 - [DOI: 10.5281/zenodo.7405912](http://doi.org/10.5281/zenodo.7405912). [Abstract (talk 5)](https://symposium22.eoscfuture.eu/symposium/fair-enabling-practices/)
