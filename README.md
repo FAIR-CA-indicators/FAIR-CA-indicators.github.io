@@ -17,7 +17,7 @@ We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/)
 |10am PDT (7pm CEST) | Start hacking | all :) |
 |11:40am PDT (8:40pm CEST) | Wrap up | all |
 
-We will offer a meeting room on site as well as breakout rooms on Zoom. Further details are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
+We will offer a meeting room on site as well as breakout rooms on [Zoom](). Further details are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
 
 
 ## Development of FAIR evaluation guidelines : 
