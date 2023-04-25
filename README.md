@@ -15,7 +15,7 @@ We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/)
 |9:20am PDT (6:20pm CEST) |	Status of FAIR evaluation tool | Francois |
 |9:45am PDT	(6:45pm CEST) | Task distribution for hands-on session | Irina Balaur and Dagmar Waltemath |
 |10am PDT (7pm CEST) | Start hacking | all :) |
-|11:40am PDT (8:40pm CEST) | Wrap up | all |
+|12:30pm PDT (9:30pm CEST) | Wrap up | all |
 
 We will offer a meeting room on site as well as breakout rooms on Zoom. Further details and the Zoom link are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
 
