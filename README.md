@@ -51,7 +51,7 @@ Open science opportunities and practices in social sciences](https://eurint.uaic
 * Poster at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, Germany, October 11, 2022 - [DOI:  10.5281/zenodo.7716885]( http://doi.org/10.5281/zenodo.7716885).
 
 * Our [webpage](https://eoscfuture-grants.eu/node/274) on the EOSCFuture website.
-* 
+  
 * Our [webpage](https://www.rd-alliance.org/rda-indicators-within-combine-community) on the RDA website.
 
 ## Getting involved 
