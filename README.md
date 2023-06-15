@@ -40,13 +40,19 @@ The draft of FAIR indicators adapted to the COMBINE domain is available [here](h
 * Workshop at [HARMONY 2023](https://co.mbine.org/events/) supported by EOSC Future (no. 101017536).
 
 ## Outreach and open material 
-* Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, November 14-17, 2022 - [DOI: 10.5281/zenodo.7405912](http://doi.org/10.5281/zenodo.7405912). [Abstract (talk 5)](https://symposium22.eoscfuture.eu/symposium/fair-enabling-practices/)
 
-* Presentation at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022 - [DOI: 10.5281/zenodo.7716716](http://doi.org/10.5281/zenodo.7716716). [Abstract](https://easychair.org/smart-program/ICSB2022/2022-10-11.html#talk:205389)
+* Presentation at [12th EURINT INTERNATIONAL CONFERENCE - Challenges and future prospects for a resilient Europe| 
+Open science opportunities and practices in social sciences](https://eurint.uaic.ro/) in Iasi, Romania, May 19-20, 2023 - [DOI: 10.5281/zenodo.8044822](https://doi.org/10.5281/zenodo.8044822).
 
-* Poster at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, October 11, 2022 - [DOI:  10.5281/zenodo.7716885]( http://doi.org/10.5281/zenodo.7716885).
+* Presentation at [EOSC Symposium](https://symposium22.eoscfuture.eu/) in Prague, Che, November 14-17, 2022 - [DOI: 10.5281/zenodo.7405912](http://doi.org/10.5281/zenodo.7405912). [Abstract (talk 5)](https://symposium22.eoscfuture.eu/symposium/fair-enabling-practices/)
+
+* Presentation at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, Germany, October 11, 2022 - [DOI: 10.5281/zenodo.7716716](http://doi.org/10.5281/zenodo.7716716). [Abstract](https://easychair.org/smart-program/ICSB2022/2022-10-11.html#talk:205389)
+
+* Poster at [ICSB 2022](https://www.icsb2022.berlin/) in Berlin, Germany, October 11, 2022 - [DOI:  10.5281/zenodo.7716885]( http://doi.org/10.5281/zenodo.7716885).
 
 * Our [webpage](https://eoscfuture-grants.eu/node/274) on the EOSCFuture website.
+* 
+* Our [webpage](https://www.rd-alliance.org/rda-indicators-within-combine-community) on the RDA website.
 
 ## Getting involved 
 * Join our [Mailing List on Google Groups](https://groups.google.com/g/fair-ca-indicators)
