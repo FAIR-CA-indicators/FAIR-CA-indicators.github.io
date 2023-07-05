@@ -19,14 +19,20 @@ We run a workshop at the [HARMONY 2023 conference](https://co.mbine.org/events/)
 
 We will offer a meeting room on site as well as breakout rooms on Zoom. Further details and the Zoom link are provided via the HARMONY2023 slack channel, or write an email to [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss).
 
-
-## Development of FAIR evaluation guidelines : 
-The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue]([https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/issues](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues)) that we created per each indicator to add your comments and edits. Thank you. 
-
 ## Project goals (Oct 2022-Mar2023)
 1. Achieve Community-consensus on FAIR indicators
 2. Develop FAIR evaluation guidelines
 3. Implement a FAIR evaluation tool
+
+## Development of FAIR evaluation guidelines: 
+The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues) that we created per each indicator to add your comments and edits. Thank you. 
+
+## Implementation of a FAIR evaluation tool:
+The FAIR evaluator is a semi-automatic tool for the assessment of a model's or an archive's FAIRness. The scoring is based on the RDA Indicators (RDA FAIR Data Maturity Model Working Group, B. "FAIR Data Maturity Model: specification and guidelines." Res. Data Alliance 10 (2020)) and has then been adjusted to match the specificities of the COMBINE community. The evaluator itself is independent of specific community standards. 
+Currently, the tool parses COMBINE archives (OMEX) and models in the SBML, CELLML or SED-ML standard formats. A Docker image of the backend is available for free reuse (Apache-2.0 license). Please see the project repository for more information:
+
+Backend: [https://github.com/FAIR-CA-indicators/fair-ca-indicators-backend](https://github.com/FAIR-CA-indicators/fair-ca-indicators-backend)
+Frontend: [https://github.com/FAIR-CA-indicators/fair-ca-indicators-frontend](https://github.com/FAIR-CA-indicators/fair-ca-indicators-frontend)
 
 ## Involved communities
 * COmputational MOdeling in BIology NEtwork ([COMBINE](https://combine-org.github.io/))
