@@ -48,6 +48,8 @@ Frontend: [https://github.com/FAIR-CA-indicators/fair-ca-indicators-frontend](ht
 
 ## Outreach and open material 
 
+* Presentation at [Workshop Computational Models in Biology and Medicine](http://www.biometrische-gesellschaft.de/arbeitsgruppen/statistische-methoden-i-d-bioinformatik/workshop2023.html) in Stuttgart, June 15, 2023 - [DOI: 10.5281/zenodo.8318673](https://doi.org/10.5281/zenodo.8318673).
+
 * Presentation at [12th EURINT INTERNATIONAL CONFERENCE - Challenges and future prospects for a resilient Europe| 
 Open science opportunities and practices in social sciences](https://eurint.uaic.ro/) in Iasi, Romania, May 19-20, 2023 - [DOI: 10.5281/zenodo.8044822](https://doi.org/10.5281/zenodo.8044822).
 
