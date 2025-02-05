@@ -25,7 +25,7 @@ We will offer a meeting room on site as well as breakout rooms on Zoom. Further 
 3. Implement a FAIR evaluation tool
 
 ## Development of FAIR evaluation guidelines: 
-The FAIR indicator template adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf). 
+The FAIR indicator template adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/COMBINE_FAIR_assessment_template.xlsx). 
 
 We still do  appreciate your comments. Please use the [Issue](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues) that we created per each indicator to add your comments and edits. Thank you. 
 
