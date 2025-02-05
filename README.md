@@ -25,7 +25,9 @@ We will offer a meeting room on site as well as breakout rooms on Zoom. Further 
 3. Implement a FAIR evaluation tool
 
 ## Development of FAIR evaluation guidelines: 
-The draft of FAIR indicators adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf) since March 2023. We still do  appreciate your comments. Please use the [Issue](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues) that we created per each indicator to add your comments and edits. Thank you. 
+The FAIR indicator template adapted to the COMBINE domain is available [here](https://github.com/FAIR-CA-indicators/FAIR-CA-indicators.github.io/blob/fd681cf8b9a5211d28d42822b51fdf75c42c645d/FAIR_indicators_for_COMBINE/FAIR%20model%20indicators_main_13012023.pdf). 
+
+We still do  appreciate your comments. Please use the [Issue](https://github.com/FAIR-CA-indicators/CA-RDA-Indicators/issues) that we created per each indicator to add your comments and edits. Thank you. 
 
 ## Implementation of a FAIR evaluation tool:
 The FAIR evaluator is a semi-automatic tool for the assessment of a model's or an archive's FAIRness. The scoring is based on the RDA Indicators (RDA FAIR Data Maturity Model Working Group, B. "FAIR Data Maturity Model: specification and guidelines." Res. Data Alliance 10 (2020)) and has then been adjusted to match the specificities of the COMBINE community. The evaluator itself is independent of specific community standards. 
