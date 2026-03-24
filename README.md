@@ -38,6 +38,9 @@ Backend: [https://github.com/FAIR-CA-indicators/fair-ca-indicators-backend](http
 
 Frontend: [https://github.com/FAIR-CA-indicators/fair-ca-indicators-frontend](https://github.com/FAIR-CA-indicators/fair-ca-indicators-frontend)
 
+## Community assessments using the FAIR COMBINE indicators
+Evaluation of FAIR COMBINE indicators on models by the PK/PD community including models on Dapagliflozin in Type 2 Diabetes Mellitus or methods to physiologically based modelling of blood pressure is available at [fair-ca-visualization assessments](https://github.com/matthiaskoenig/fair-ca-visualization/tree/main/data/assessments).
+
 ## Involved communities
 * COmputational MOdeling in BIology NEtwork ([COMBINE](https://combine-org.github.io/))
 * [BioModels](https://www.ebi.ac.uk/biomodels/)
